@@ -8,7 +8,7 @@ import java.math.*;
  * ---
  * Hint: You can use the debug stream to print initialTX and initialTY, if Thor seems not follow your orders.
  **/
-class Player {
+class Easy_LePouvoirDeThor {
 
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
