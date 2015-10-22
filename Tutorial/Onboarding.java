@@ -7,7 +7,7 @@ import java.math.*;
  * <---
  * Hint:To protect the planet, you can implement the pseudo-code provided in the statement, below the player.
  **/
-class Player {
+class Onboarding {
 
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
